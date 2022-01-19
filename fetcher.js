@@ -4,6 +4,7 @@ const args = process.argv.slice(2); // takes cmd line arguments
 
 let urlArg = args[0];
 let pathArg = args[1];
+ 
 
 
 // HTTP request
